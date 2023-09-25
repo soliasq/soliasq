@@ -1,5 +1,10 @@
 ### Hi, i'm soliasq 👋
 
+
+you can find se
+- youtube
+- Facebook
+- Web
 <!--
 **soliasq/soliasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
