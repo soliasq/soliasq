@@ -16,11 +16,11 @@ const soliasq = {
 
  <p align="center"> <strong> You can find me :</strong>  👇!</p>
 <p align="center">
-   <a href="http://www.soliasq.260mb.net/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://github.com/soliasq/soliasq/assets/5314272/1bb5040b-de31-4749-b619-5da621914d56" alt="soliasq" height="28px" width="28px" />
+   <a href="http://www.soliasq.260mb.net/" target="_blank" style="margin-right:4px"/>
+    <img align="center" src="https://github.com/soliasq/soliasq/assets/5314272/1bb5040b-de31-4749-b619-5da621914d56" alt="soliasq" height="28px" width="28px"/>
   </a> &nbsp;&nbsp;&nbsp;
   
-   <a href="https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg" target="blank" style='margin-right:4px'>
+   <a href="https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg" target="_blank" style="margin-right:4px">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://t.me/soliasq" target="blank">
