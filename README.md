@@ -1,5 +1,6 @@
 ### Hi, i'm soliasq 👋
-![me](https://github.com/soliasq/soliasq/assets/5314272/160b3e63-30a3-4637-be97-ffeafa438601)
+![me](https://github.com/soliasq/soliasq/assets/5314272/9f87757f-836e-4b79-bfa5-b12b3d1fb72c)
+
 '''
 You can find me :
 - youtube https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg
