@@ -16,7 +16,7 @@ const soliasq = {
 
  <p align="center"> <strong> You can find me :</strong>  👇!</p>
 <p align="center">
-<a href="https://t.me/soliasq" target="_blank">
+<a href="http://www.soliasq.260mb.net/?i=1" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="soliasq" height="28px" width="28px" />
   </a>&nbsp;&nbsp;&nbsp;
   
