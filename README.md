@@ -1,10 +1,11 @@
 ### Hi, i'm soliasq 👋
-
+![me](https://github.com/soliasq/soliasq/assets/5314272/160b3e63-30a3-4637-be97-ffeafa438601)
 '''
 You can find me :
-- youtube
-- Facebook
-- Web
+- youtube https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg
+- Facebook https://www.facebook.com/profile.php?id=100065418402533
+- Web http://www.soliasq.260mb.net/
+- Telegram https://t.me/soliasq
 <!--
 **soliasq/soliasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
