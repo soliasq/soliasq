@@ -1,19 +1,37 @@
-### Hi, i'm soliasq 👋
-![me](https://github.com/soliasq/soliasq/assets/5314272/9f87757f-836e-4b79-bfa5-b12b3d1fb72c)
+<p align="center">
+  <img align="center" width="auto" src="https://github.com/soliasq/soliasq/assets/5314272/9f87757f-836e-4b79-bfa5-b12b3d1fb72c"/>
+  <!--![me](https://github.com/soliasq/soliasq/assets/5314272/9f87757f-836e-4b79-bfa5-b12b3d1fb72c)-->
+  <h3 align="center">¡Hey 👋! Soy soliasq 👨🏻‍💻</h3>
+  
 ```js
 const soliasq = {
-  pronoums: "he"|"him",
+  pronoums: "he" |"him",
   code: [Javascript,Typescript, HTML, CSS, Java, Haskell, Rust, C#, PHP],
   tools: [Laravel, Flutter, Node, Storybook, Style-Components, Jest, Dock],
   desing: [Photoshop, Illustrator, Figma, Xd, Corel-Draw, Premier, After-Effects, Indesign],
-  other: [Skechup, R, Python, Vba, Tableu, ]
+  other: [Skechup, R, Python, Vba, Tableu ]
 }    
 ```
-You can find me :
-- youtube https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg
-- Facebook https://www.facebook.com/profile.php?id=100065418402533
-- Web http://www.soliasq.260mb.net/
-- Telegram https://t.me/soliasq
+
+
+ <p align="center"> <strong> You can find me :</strong>  👇!</p>
+<p align="center">
+   <a href="[http://www.soliasq.260mb.net/]" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://github.com/soliasq/soliasq/assets/5314272/1bb5040b-de31-4749-b619-5da621914d56" alt="midudev" height="28px" width="28px" />
+  </a>&nbsp;&nbsp;&nbsp;
+   <a href="[https://youtube.com/midudev](https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg)" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="midudev" height="28px" width="28px" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="[https://t.me/soliasq]" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="[https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg]" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="midudev" height="28px" width="28px" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="[https://www.instagram.com/t43cr0w]" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+</p> 
 <!--
 **soliasq/soliasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,3 +49,4 @@ Here are some ideas to get you started:
 --- 
 
 ¡Gracias por visitar! Siéntete libre de contactarme o tienes alguna pregunta.
+Thank you for visiting my profile! Feel free to contact me or if you have any questions.
