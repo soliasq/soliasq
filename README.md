@@ -1,7 +1,7 @@
 ### Hi, i'm soliasq 👋
 
-
-you can find se
+'''
+You can find me :
 - youtube
 - Facebook
 - Web
@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+--- 
+
+¡Gracias por visitar! Siéntete libre de contactarme o tienes alguna pregunta.
