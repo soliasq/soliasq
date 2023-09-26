@@ -14,9 +14,9 @@ const soliasq = {
 ```
 
  <p align="center"> <strong> You can find me :</strong>  👇!</p>
+ 
 <p align="center">
-
-  <a href="http://www.soliasq.260mb.net/?i=1" target="_blank">WEB
+  <a href="http://www.soliasq.260mb.net/?i=1" alt="WEB" target="_blank">
      <img align="center" src="https://cdn.jsdelivr.net/npm/@material-icons/svg@1.0.11/svg/home/" alt="soliasq" height="28px" width="28px"/>
   </a>&nbsp;&nbsp;&nbsp;
    <a href="https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg" target="_blank" style="margin-right:4px">
