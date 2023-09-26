@@ -1,7 +1,7 @@
 <p align="center">
   <img align="center" width="auto" src="https://github.com/soliasq/soliasq/assets/5314272/9f87757f-836e-4b79-bfa5-b12b3d1fb72c"/>
   <!--![me](https://github.com/soliasq/soliasq/assets/5314272/9f87757f-836e-4b79-bfa5-b12b3d1fb72c)-->
-  <h3 align="center">¡Hey 👋! Soy soliasq 👨🏻‍💻</h3>
+  <h3 align="center">¡Hey 👋!  I'm soliasq 👨🏻‍💻</h3>
   
 ```js
 const soliasq = {
@@ -16,12 +16,12 @@ const soliasq = {
  <p align="center"> <strong> You can find me :</strong>  👇!</p>
 <p align="center">
 
-  <a href="http://www.soliasq.260mb.net/?i=1" target="_blank">
+  <a href="http://www.soliasq.260mb.net/?i=1" target="_blank">WEB
      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/home.svg" alt="soliasq" height="28px" width="28px"/>
   </a>&nbsp;&nbsp;&nbsp;
   
 <a href="http://www.soliasq.260mb.net/?i=1" target="_blank">
-    <img  src="https://github.com/soliasq/soliasq/assets/5314272/1bb5040b-de31-4749-b619-5da621914d56" alt="soliasq" height="28px" width="28px"/>
+    <img  src="[https://github.com/soliasq/soliasq/assets/5314272/1bb5040b-de31-4749-b619-5da621914d56]" alt="soliasq" height="28px" width="28px"/>
   </a>&nbsp;&nbsp;&nbsp;
   
    <a href="https://www.youtube.com/channel/UCOBSI6n-Uktm6iN4lqG-fSg" target="_blank" style="margin-right:4px">
