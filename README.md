@@ -13,7 +13,6 @@ const soliasq = {
 }    
 ```
 
-
  <p align="center"> <strong> You can find me :</strong>  👇!</p>
 <p align="center">
 <a href="http://www.soliasq.260mb.net/?i=1" target="_blank">
