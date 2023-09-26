@@ -25,8 +25,7 @@ const soliasq = {
   <a href="https://t.me/soliasq" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="soliasq" height="28px" width="28px" />
   </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/profile.php?id=100065418402533" target="_blank">
+    <a href="https://www.facebook.com/profile.php?id=100065418402533" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="soliasq" height="28px" width="28px" />
   </a>&nbsp;&nbsp;&nbsp;
   
