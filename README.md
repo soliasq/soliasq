@@ -17,7 +17,7 @@ const soliasq = {
 <p align="center">
 
   <a href="http://www.soliasq.260mb.net/?i=1" target="_blank">
-     <img align="center" src="[https://github.com/soliasq/soliasq/assets/5314272/1bb5040b-de31-4749-b619-5da621914d56](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg)" alt="soliasq" height="28px" width="28px">
+     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/globe.svg" alt="soliasq" height="28px" width="28px">
   </a>&nbsp;&nbsp;&nbsp;
   
 <a href="http://www.soliasq.260mb.net/?i=1" target="_blank">
