@@ -33,6 +33,10 @@ const soliasq = {
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="soliasq" height="28px" width="28px" />
   </a>
 </p> 
+<hr> 
+
+¡Gracias por visitar! Siéntete libre de contactarme o tienes alguna pregunta.<br>
+Thank you for visiting my profile! Feel free to contact me or if you have any questions.
 <!--
 **soliasq/soliasq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -47,7 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
---- 
 
-¡Gracias por visitar! Siéntete libre de contactarme o tienes alguna pregunta.
-Thank you for visiting my profile! Feel free to contact me or if you have any questions.
